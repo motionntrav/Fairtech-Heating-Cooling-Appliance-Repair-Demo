@@ -1,11 +1,11 @@
 export const site = {
-  name: "Your HVAC Company",
+  name: "Fairtech Heating & Cooling",
   tagline: "Comfort you can count on — in every season.",
   description:
-    "Your HVAC Company provides dependable heating and cooling services in Indianapolis and nearby areas. Fast scheduling, honest pricing, quality work.",
+    "Fairtech Heating & Cooling provides dependable heating and cooling services in Indianapolis and nearby areas. Fast scheduling, honest pricing, quality work.",
   url: "https://example.com", // replace with real domain or Vercel URL
-  phone: "(555) 555-5555",
-  email: "service@yourhvaccompany.com", // replace with the real email if different
+  phone: "(317) 800-8006",
+  email: "service@fairtechheatingandcooling.com", // replace with the real email if different
   address: {
     street: "Indianapolis, IN",
     city: "Indianapolis",
